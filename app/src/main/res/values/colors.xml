@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray1">#d3d3d3</color>
+    <color name="gray2">#acacac</color>
+    <color name="my_greem">#689F38</color>
+    <color name="blueforText">#1976D2</color>
+
+    <color name="reddate">#D21919</color>
+
+</resources>

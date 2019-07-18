@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content">
+
+    <Spinner android:layout_width="200dp"
+             android:autofillHints="Inspection Type"
+             android:layout_height="wrap_content"
+    android:id="@+id/Inspectionn_option"></Spinner>
+
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:inputType="date"
+            android:ems="10"
+            android:layout_marginTop="50dp"
+            android:hint="Start Time"
+            android:id="@+id/editText_date"/>
+
+    <EditText
+            android:layout_width="250dp"
+            android:layout_height="100dp"
+            android:inputType="textPersonName"
+            android:text="Inscpection Report"
+            android:textAlignment="textStart"
+            android:background="@drawable/stylessquare"
+            android:layout_marginTop="100dp"
+            android:id="@+id/textView_Inspection"/>
+    <EditText
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="200dp"
+            android:inputType="date"
+            android:hint="Stop Time"
+            android:ems="10"
+            android:id="@+id/editText3"/>
+
+    <TextView
+            android:id="@+id/textView_goDetails"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="inspection details"
+            android:textSize="18sp"
+            android:layout_marginLeft="200dp"
+            android:drawableRight="@drawable/smallarrow"
+            android:layout_marginTop="350dp"/>
+
+
+</RelativeLayout>
