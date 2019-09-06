@@ -17,6 +17,6 @@ Inspections:
 ![Screenshot_20190816_135205](https://user-images.githubusercontent.com/25572428/64426106-60e8b700-d0b6-11e9-817b-2fc32b4c0d99.jpg)
 
 Create Inspection:
+![Screenshot_20190816_141704](https://user-images.githubusercontent.com/25572428/64426428-2c292f80-d0b7-11e9-8a9d-96397d596ed5.jpg)
 
-![Screenshot_20190816_141704](https://user-images.githubusercontent.com/25572428/64426137-765de100-d0b6-11e9-981d-ef367b173970.jpg)
 ![Screenshot_20190816_141800](https://user-images.githubusercontent.com/25572428/64426142-7b229500-d0b6-11e9-9483-561385bfb712.jpg)
