@@ -15,10 +15,11 @@ phots from app
 Login Screen:
 ![Screenshot_20190816_131951](https://user-images.githubusercontent.com/25572428/64426084-53cbc800-d0b6-11e9-8c70-07241f9cf30c.jpg)
 ---
-Red Marker: inspection isn't finished yet
-Green Marker: inspection is over 
+
 Inspections:
 ![Screenshot_20190816_135205](https://user-images.githubusercontent.com/25572428/64426106-60e8b700-d0b6-11e9-817b-2fc32b4c0d99.jpg)
+Red Marker: inspection isn't finished yet
+Green Marker: inspection is over 
 
 ---
 Create Inspection:
